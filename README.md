@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# GBR Burn Token Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This contract was created to burn GBR token. In its essence, it is a repository of "burned" tokens, which will no longer be used and will be stored in it forever.
 
 Try running some of the following tasks:
 
